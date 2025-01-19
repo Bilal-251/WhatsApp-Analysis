@@ -8,6 +8,6 @@ pip install streamlit
 
 # Usage
 ```
-python run app.py
+streamlit run app.py
 
 ```
